@@ -3,6 +3,9 @@ package com.java.streams;
 import java.util.IntSummaryStatistics;
 import java.util.List;
 
+/*
+ * Author : Ashwin
+ */
 public class PrintCountMinMaxSumAverageForNumbers {
 
 	public static void printCountMinMaxSumAverageForNumbers(List<Integer> listOfIntegers) {
@@ -20,10 +23,3 @@ public class PrintCountMinMaxSumAverageForNumbers {
 	}
 
 }
-
-
-
-
-
-
-
