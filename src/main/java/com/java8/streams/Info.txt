@@ -1,0 +1,7 @@
+Intermediate and terminal operations.
+
+Terminal operations are used to produce a result, and after that, you cannot reuse them.
+
+Streams leave source collection intact, i.e. operations on streams don't affect the collection from which streams are obtained.
+You can get Stream not just from the Collection but from other sources like Random Number generator and FileInputStream.
+
