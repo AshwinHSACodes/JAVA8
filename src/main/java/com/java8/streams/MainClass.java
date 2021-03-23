@@ -65,8 +65,7 @@ public class MainClass {
 	// 6.Convert String ToUpperCase And Join Them Using Comma
 	private static void convertStringToUpperCaseAndJoinThemUsingComma() {
 
-		List<String> originalList = Arrays.asList("ashwin", "raju", "anu", "ahas", "sumukh", "charani", "chandan",
-				"vikki");
+		List<String> originalList = Arrays.asList("ashwin", "raju", "anu", "ahas", "sumukh", "charani", "chandan", "vikki");
 		String resultString = ConvertStringToUpperCaseAndJoinThemUsingComma
 				.convertStringToUpperCaseAndJoinThemUsingComma(originalList);
 
