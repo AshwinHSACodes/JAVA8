@@ -93,6 +93,8 @@ public class MainClass {
 		List<Integer> listOfIntegers = Arrays.asList(1,2,3,4,5,6,7,8);
 		PrintCountMinMaxSumAverageForNumbers.printCountMinMaxSumAverageForNumbers(listOfIntegers);
 	}
+
+
 	
 	
 }
